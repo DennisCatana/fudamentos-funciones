@@ -1,12 +1,12 @@
 # fudamentos-funciones
 <br>
-## Fundamentos 
+## _Fundamentos_ 
 
 
 
 <br>
 <br>
-## Funciones<br>
+## _Funciones_<br>
 
 * Retorno de una Función <br>
 
