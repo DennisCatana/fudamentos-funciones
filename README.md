@@ -1,10 +1,6 @@
 # fudamentos-funciones
 ## _Fundamentos_ 
 
-
-
-<br>
-<br>
 ## _Funciones_<br>
 
 * Retorno de una Función <br>
