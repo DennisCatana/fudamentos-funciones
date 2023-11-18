@@ -1,5 +1,17 @@
 # fudamentos-funciones
 ## _Fundamentos_ 
+*Numeros <br>
+![imagen](https://github.com/DennisCatana/fudamentos-funciones/assets/117743657/c984ea51-c7e0-4a2f-85eb-f2619da1ba0d) <br>
+
+*Booleanos <br>
+![imagen](https://github.com/DennisCatana/fudamentos-funciones/assets/117743657/cdef68e9-9766-4d8b-87cc-1b0fe227ff82) <br>
+
+
+
+
+
+
+
 
 ## _Funciones_
 
