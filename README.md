@@ -7,7 +7,7 @@
 <br>
 <br>
 # Funciones<br>
-* Retorno de una función <br>
+* Retorno de una Función <br>
 ![image](https://github.com/DennisCatana/fudamentos-funciones/assets/117744033/dc6345d0-9654-41f7-8765-6a09d03c6dfe)<br>
 
 * Función Flecha <br>
