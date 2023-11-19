@@ -1,5 +1,12 @@
 # fudamentos-funciones
 ## _Fundamentos_ 
+* Variables <br>
+<img width="252" alt="image" src="https://github.com/DennisCatana/fudamentos-funciones/assets/117743828/74874bbe-636b-4a2b-8057-888620afb646">
+
+* String<br>
+  ![image](https://github.com/DennisCatana/fudamentos-funciones/assets/117743828/fb01c58d-9586-4a26-95b6-613b49b1a418)
+<img width="341" alt="image" src="https://github.com/DennisCatana/fudamentos-funciones/assets/117743828/ae936cfc-0a9a-420c-83c6-1bcc00d32fab">
+
 * Numeros <br>
 ![imagen](https://github.com/DennisCatana/fudamentos-funciones/assets/117743657/c984ea51-c7e0-4a2f-85eb-f2619da1ba0d) <br>
 
