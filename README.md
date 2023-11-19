@@ -22,6 +22,15 @@
 
 ## _Funciones_
 
+* Anonimos y autoejecutadas <br>
+
+![WhatsApp Image 2023-11-19 at 17 13 04](https://github.com/DennisCatana/fudamentos-funciones/assets/117743538/1a972df6-0976-41a1-b355-28bb345cad22)
+
+
+* Argumentos y Parametros <br>
+![WhatsApp Image 2023-11-19 at 17 13 04 (1)](https://github.com/DennisCatana/fudamentos-funciones/assets/117743538/4a5bb976-e248-401d-a572-9a77909c39cc)
+
+
 * Retorno de una Función <br>
 
 ![image](https://github.com/DennisCatana/fudamentos-funciones/assets/117744033/dc6345d0-9654-41f7-8765-6a09d03c6dfe)<br>
