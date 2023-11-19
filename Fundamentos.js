@@ -99,6 +99,17 @@ console.log(saldoTarjeta !== parseInt(saldoTarjetaUsuario));
 
 
 //CONDICIONALES
+let edad = 18;
 
+if (edad >= 18) {
+  console.log("Eres mayor de edad");
+} else {
+  console.log("Eres menor de edad");
+}
 
 //BUCLES
+for (let i = 0; i < 5; i++) {
+  console.log("El valor de i es: " + i);
+}
+
+
